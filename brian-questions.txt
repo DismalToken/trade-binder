@@ -1,0 +1,15 @@
+* from what sites will you pull pricing data?
+* do you intend for a user to input their cards? if so, how do you plan to input your cards?
+* does each card have a unique code?
+* is there a catalog of cards to match a user's input to ensure validity?
+* how do you tell the difference between an invalid card and a card the pricing site doesn't know? is the difference important?
+* will you support multiple currencies?
+* how sensitive is pricing data to time?
+* do you plan to store pricind data over time?
+* do you plan to store any pricing data, or rely on the hosting site to SoT the pricing data?
+* will you display graphics? If so, where will you get the graphics from?
+* how will you tell the difference between cards with the same name of different generations? is this a concern?
+* do you intend to publish results on a website, or a file for a user that runs a program?
+* either way: what does the website look like? what does the output file look like?
+* do you have performance targets for how long a page takes to render, server-side, or how long a user should wait to get their results?
+* is there a social aspect to you site? if so, how doeds that manifest?
