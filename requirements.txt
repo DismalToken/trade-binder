@@ -1,0 +1,22 @@
+THE PRIMARY FUNCTION{
+
+	must display current total value of trade binder
+
+	user should be able to add or remove cards from their trade binder
+
+	when a new addition is made, it should collect the name, set, language (default should be english), and if it is foil, and the quantity (default should be 1)
+
+	when a card is selected, you should be able to see the current value, along with its other properties like language, and if it is foil or not
+}
+
+Possible additional features{
+	images are nice but not necessary for this project
+
+	a trade feature where you can add cards to your current trade that you are currently trading way (like a shopping cart), along with an adjacent "shopping cart" of cards that you are trading for{
+		the price should be displayed for both "shopping carts", along with the difference between them
+	}
+
+	sorting features to sort by price is the most important.
+	OR a filter where the user can set the price range and it will filter the cards so that they only see cards in that price range
+}
+
