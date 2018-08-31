@@ -4,3 +4,4 @@ http://gatherer.wizards.com/Pages/Default.aspx
 https://www.tcgplayer.com/
 https://www.mtggoldfish.com/
 https://www.cardkingdom.com/
+https://scryfall.com/
