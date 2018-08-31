@@ -1,189 +1,189 @@
-Aether Revolt
-Alara Reborn
-Alliances
-Amonkhet
-Antiquities
-Apocalypse
-Arabian Nights
-Archenemy
-Archenemy: Nicol Bolas
-Avacyn Restored
-Battle for Zendikar
-Battle Royale Box Set
-Battlebond
-Beatdown Box Set
-Betrayers of Kamigawa
-Born of the Gods
-Champions of Kamigawa
-Chronicles
-Classic Sixth Edition
-Coldsnap
-Commander 2013 Edition
-Commander 2014
-Commander 2015
-Commander 2016
-Commander 2017
-Commander 2018
-Commander Anthology
-Commander Anthology 2018
-Commander's Arsenal
-Conflux
-Conspiracy: Take the Crown
-Core Set 2019
-Dark Ascension
-Darksteel
-Dissension
-Dominaria
-Dragon's Maze
-Dragons of Tarkir
-Duel Decks Anthology, Divine vs. Demonic
-Duel Decks Anthology, Elves vs. Goblins
-Duel Decks Anthology, Garruk vs. Liliana
-Duel Decks Anthology, Jace vs. Chandra
-Duel Decks: Ajani vs. Nicol Bolas
-Duel Decks: Blessed vs. Cursed
-Duel Decks: Divine vs. Demonic
-Duel Decks: Elspeth vs. Kiora
-Duel Decks: Elspeth vs. Tezzeret
-Duel Decks: Elves vs. Goblins
-Duel Decks: Elves vs. Inventors
-Duel Decks: Garruk vs. Liliana
-Duel Decks: Heroes vs. Monsters
-Duel Decks: Izzet vs. Golgari
-Duel Decks: Jace vs. Chandra
-Duel Decks: Jace vs. Vraska
-Duel Decks: Knights vs. Dragons
-Duel Decks: Merfolk vs. Goblins
-Duel Decks: Mind vs. Might
-Duel Decks: Nissa vs. Ob Nixilis
-Duel Decks: Phyrexia vs. the Coalition
-Duel Decks: Sorin vs. Tibalt
-Duel Decks: Speed vs. Cunning
-Duel Decks: Venser vs. Koth
-Duel Decks: Zendikar vs. Eldrazi
-Eighth Edition
-Eldritch Moon
-Eternal Masters
-Eventide
-Exodus
-Explorers of Ixalan
-Fallen Empires
-Fate Reforged
-Fifth Dawn
-Fifth Edition
-Fourth Edition
-From the Vault: Angels
-From the Vault: Annihilation (2014)
-From the Vault: Dragons
-From the Vault: Exiled
-From the Vault: Legends
-From the Vault: Lore
-From the Vault: Realms
-From the Vault: Relics
-From the Vault: Transform
-From the Vault: Twenty
-Future Sight
-Gatecrash
-Global Series: Jiang Yanggu and Mu Yanling
-Guildpact
-Homelands
-Hour of Devastation
-Ice Age
-Iconic Masters
-Innistrad
-Invasion
-Ixalan
-Journey into Nyx
-Judgment
-Kaladesh
-Khans of Tarkir
-Legends
-Legions
-Limited Edition Alpha
-Limited Edition Beta
-Lorwyn
-Magic 2010
-Magic 2011
-Magic 2012
-Magic 2013
-Magic 2014 Core Set
-Magic 2015 Core Set
-Magic Origins
-Magic: The Gathering-Commander
-Magic: The Gathering—Conspiracy
-Masterpiece Series: Amonkhet Invocations
-Masterpiece Series: Kaladesh Inventions
-Masters 25
-Masters Edition
-Masters Edition II
-Masters Edition III
-Masters Edition IV
-Mercadian Masques
-Mirage
-Mirrodin
-Mirrodin Besieged
-Modern Event Deck 2014
-Modern Masters
-Modern Masters 2015 Edition
-Modern Masters 2017 Edition
-Morningtide
-Nemesis
-New Phyrexia
-Ninth Edition
-Oath of the Gatewatch
-Odyssey
-Onslaught
-Planar Chaos
-Planechase
-Planechase 2012 Edition
-Planechase Anthology
-Planeshift
-Portal
-Portal Second Age
-Portal Three Kingdoms
-Premium Deck Series: Fire and Lightning
-Premium Deck Series: Graveborn
-Premium Deck Series: Slivers
-Promo set for Gatherer
-Prophecy
-Ravnica: City of Guilds
-Return to Ravnica
-Revised Edition
-Rise of the Eldrazi
-Rivals of Ixalan
-Saviors of Kamigawa
-Scars of Mirrodin
-Scourge
-Seventh Edition
-Shadowmoor
-Shadows over Innistrad
-Shards of Alara
-Signature Spellbook: Jace
-Starter 1999
-Starter 2000
-Stronghold
-Tempest
-Tempest Remastered
-Tenth Edition
-The Dark
-Theros
-Time Spiral
-Time Spiral &quot;Timeshifted&quot;
-Torment
-Ugin's Fate promos
-Unglued
-Unhinged
-Unlimited Edition
-Unstable
-Urza's Destiny
-Urza's Legacy
-Urza's Saga
-Vanguard
-Vintage Masters
-Visions
-Weatherlight
-Welcome Deck 2016
-Welcome Deck 2017
-Worldwake
-Zendikar
-Zendikar Expeditions
+AETHER_REVOLT("Aether Revolt"),
+ALARA_REBORN("Alara Reborn"),
+ALLIANCES("Alliances"),
+AMONKHET("Amonkhet"),
+ANTIQUITIES("Antiquities"),
+APOCALYPSE("Apocalypse"),
+ARABIAN_NIGHTS("Arabian Nights"),
+ARCHENEMY("Archenemy"),
+ARCHENEMY_NICOL_BOLAS("Archenemy: Nicol Bolas"),
+AVACYN_RESTORED("Avacyn Restored"),
+BATTLE_FOR_ZENDIKAR("Battle for Zendikar"),
+BATTLE_ROYALE_BOX_SET("Battle Royale Box Set"),
+BATTLEBOND("Battlebond"),
+BEATDOWN_BOX_SET("Beatdown Box Set"),
+BETRAYERS_OF_KAMIGAWA("Betrayers of Kamigawa"),
+BORN_OF_THE_GODS("Born of the Gods"),
+CHAMPIONS_OF_KAMIGAWA("Champions of Kamigawa"),
+CHRONICLES("Chronicles"),
+CLASSIC_SIXTH_EDITION("Classic Sixth Edition"),
+COLDSNAP("Coldsnap"),
+COMMANDER_2013_EDITION("Commander 2013 Edition"),
+COMMANDER_2014("Commander 2014"),
+COMMANDER_2015("Commander 2015"),
+COMMANDER_2016("Commander 2016"),
+COMMANDER_2017("Commander 2017"),
+COMMANDER_2018("Commander 2018"),
+COMMANDER_ANTHOLOGY("Commander Anthology"),
+COMMANDER_ANTHOLOGY_2018("Commander Anthology 2018"),
+COMMANDERS_ARSENAL("Commander's Arsenal"),
+CONFLUX("Conflux"),
+CONSPIRACY_TAKE_THE_CROWN("Conspiracy: Take the Crown"),
+CORE_SET_2019("Core Set 2019"),
+DARK_ASCENSION("Dark Ascension"),
+DARKSTEEL("Darksteel"),
+DISSENSION("Dissension"),
+DOMINARIA("Dominaria"),
+DRAGONS_MAZE("Dragon's Maze"),
+DRAGONS_OF_TARKIR("Dragons of Tarkir"),
+DUEL_DECKS_ANTHOLOGY,_DIVINE_VS_DEMONIC("Duel Decks Anthology, Divine vs. Demonic"),
+DUEL_DECKS_ANTHOLOGY,_ELVES_VS_GOBLINS("Duel Decks Anthology, Elves vs. Goblins"),
+DUEL_DECKS_ANTHOLOGY,_GARRUK_VS_LILIANA("Duel Decks Anthology, Garruk vs. Liliana"),
+DUEL_DECKS_ANTHOLOGY,_JACE_VS_CHANDRA("Duel Decks Anthology, Jace vs. Chandra"),
+DUEL_DECKS_AJANI_VS_NICOL_BOLAS("Duel Decks: Ajani vs. Nicol Bolas"),
+DUEL_DECKS_BLESSED_VS_CURSED("Duel Decks: Blessed vs. Cursed"),
+DUEL_DECKS_DIVINE_VS_DEMONIC("Duel Decks: Divine vs. Demonic"),
+DUEL_DECKS_ELSPETH_VS_KIORA("Duel Decks: Elspeth vs. Kiora"),
+DUEL_DECKS_ELSPETH_VS_TEZZERET("Duel Decks: Elspeth vs. Tezzeret"),
+DUEL_DECKS_ELVES_VS_GOBLINS("Duel Decks: Elves vs. Goblins"),
+DUEL_DECKS_ELVES_VS_INVENTORS("Duel Decks: Elves vs. Inventors"),
+DUEL_DECKS_GARRUK_VS_LILIANA("Duel Decks: Garruk vs. Liliana"),
+DUEL_DECKS_HEROES_VS_MONSTERS("Duel Decks: Heroes vs. Monsters"),
+DUEL_DECKS_IZZET_VS_GOLGARI("Duel Decks: Izzet vs. Golgari"),
+DUEL_DECKS_JACE_VS_CHANDRA("Duel Decks: Jace vs. Chandra"),
+DUEL_DECKS_JACE_VS_VRASKA("Duel Decks: Jace vs. Vraska"),
+DUEL_DECKS_KNIGHTS_VS_DRAGONS("Duel Decks: Knights vs. Dragons"),
+DUEL_DECKS_MERFOLK_VS_GOBLINS("Duel Decks: Merfolk vs. Goblins"),
+DUEL_DECKS_MIND_VS_MIGHT("Duel Decks: Mind vs. Might"),
+DUEL_DECKS_NISSA_VS_OB_NIXILIS("Duel Decks: Nissa vs. Ob Nixilis"),
+DUEL_DECKS_PHYREXIA_VS_THE_COALITION("Duel Decks: Phyrexia vs. the Coalition"),
+DUEL_DECKS_SORIN_VS_TIBALT("Duel Decks: Sorin vs. Tibalt"),
+DUEL_DECKS_SPEED_VS_CUNNING("Duel Decks: Speed vs. Cunning"),
+DUEL_DECKS_VENSER_VS_KOTH("Duel Decks: Venser vs. Koth"),
+DUEL_DECKS_ZENDIKAR_VS_ELDRAZI("Duel Decks: Zendikar vs. Eldrazi"),
+EIGHTH_EDITION("Eighth Edition"),
+ELDRITCH_MOON("Eldritch Moon"),
+ETERNAL_MASTERS("Eternal Masters"),
+EVENTIDE("Eventide"),
+EXODUS("Exodus"),
+EXPLORERS_OF_IXALAN("Explorers of Ixalan"),
+FALLEN_EMPIRES("Fallen Empires"),
+FATE_REFORGED("Fate Reforged"),
+FIFTH_DAWN("Fifth Dawn"),
+FIFTH_EDITION("Fifth Edition"),
+FOURTH_EDITION("Fourth Edition"),
+FROM_THE_VAULT_ANGELS("From the Vault: Angels"),
+FROM_THE_VAULT_ANNIHILATION_2014("From the Vault: Annihilation (2014)"),
+FROM_THE_VAULT_DRAGONS("From the Vault: Dragons"),
+FROM_THE_VAULT_EXILED("From the Vault: Exiled"),
+FROM_THE_VAULT_LEGENDS("From the Vault: Legends"),
+FROM_THE_VAULT_LORE("From the Vault: Lore"),
+FROM_THE_VAULT_REALMS("From the Vault: Realms"),
+FROM_THE_VAULT_RELICS("From the Vault: Relics"),
+FROM_THE_VAULT_TRANSFORM("From the Vault: Transform"),
+FROM_THE_VAULT_TWENTY("From the Vault: Twenty"),
+FUTURE_SIGHT("Future Sight"),
+GATECRASH("Gatecrash"),
+GLOBAL_SERIES_JIANG_YANGGU_AND_MU_YANLING("Global Series: Jiang Yanggu and Mu Yanling"),
+GUILDPACT("Guildpact"),
+HOMELANDS("Homelands"),
+HOUR_OF_DEVASTATION("Hour of Devastation"),
+ICE_AGE("Ice Age"),
+ICONIC_MASTERS("Iconic Masters"),
+INNISTRAD("Innistrad"),
+INVASION("Invasion"),
+IXALAN("Ixalan"),
+JOURNEY_INTO_NYX("Journey into Nyx"),
+JUDGMENT("Judgment"),
+KALADESH("Kaladesh"),
+KHANS_OF_TARKIR("Khans of Tarkir"),
+LEGENDS("Legends"),
+LEGIONS("Legions"),
+LIMITED_EDITION_ALPHA("Limited Edition Alpha"),
+LIMITED_EDITION_BETA("Limited Edition Beta"),
+LORWYN("Lorwyn"),
+MAGIC_2010("Magic 2010"),
+MAGIC_2011("Magic 2011"),
+MAGIC_2012("Magic 2012"),
+MAGIC_2013("Magic 2013"),
+MAGIC_2014_CORE_SET("Magic 2014 Core Set"),
+MAGIC_2015_CORE_SET("Magic 2015 Core Set"),
+MAGIC_ORIGINS("Magic Origins"),
+MAGIC_THE_GATHERING_COMMANDER("Magic: The Gathering-Commander"),
+MAGIC_THE_GATHERING_CONSPIRACY("Magic: The Gathering—Conspiracy"),
+MASTERPIECE_SERIES_AMONKHET_INVOCATIONS("Masterpiece Series: Amonkhet Invocations"),
+MASTERPIECE_SERIES_KALADESH_INVENTIONS("Masterpiece Series: Kaladesh Inventions"),
+MASTERS_25("Masters 25"),
+MASTERS_EDITION("Masters Edition"),
+MASTERS_EDITION_II("Masters Edition II"),
+MASTERS_EDITION_III("Masters Edition III"),
+MASTERS_EDITION_IV("Masters Edition IV"),
+MERCADIAN_MASQUES("Mercadian Masques"),
+MIRAGE("Mirage"),
+MIRRODIN("Mirrodin"),
+MIRRODIN_BESIEGED("Mirrodin Besieged"),
+MODERN_EVENT_DECK_2014("Modern Event Deck 2014"),
+MODERN_MASTERS("Modern Masters"),
+MODERN_MASTERS_2015_EDITION("Modern Masters 2015 Edition"),
+MODERN_MASTERS_2017_EDITION("Modern Masters 2017 Edition"),
+MORNINGTIDE("Morningtide"),
+NEMESIS("Nemesis"),
+NEW_PHYREXIA("New Phyrexia"),
+NINTH_EDITION("Ninth Edition"),
+OATH_OF_THE_GATEWATCH("Oath of the Gatewatch"),
+ODYSSEY("Odyssey"),
+ONSLAUGHT("Onslaught"),
+PLANAR_CHAOS("Planar Chaos"),
+PLANECHASE("Planechase"),
+PLANECHASE_2012_EDITION("Planechase 2012 Edition"),
+PLANECHASE_ANTHOLOGY("Planechase Anthology"),
+PLANESHIFT("Planeshift"),
+PORTAL("Portal"),
+PORTAL_SECOND_AGE("Portal Second Age"),
+PORTAL_THREE_KINGDOMS("Portal Three Kingdoms"),
+PREMIUM_DECK_SERIES_FIRE_AND_LIGHTNING("Premium Deck Series: Fire and Lightning"),
+PREMIUM_DECK_SERIES_GRAVEBORN("Premium Deck Series: Graveborn"),
+PREMIUM_DECK_SERIES_SLIVERS("Premium Deck Series: Slivers"),
+PROMO_SET_FOR_GATHERER("Promo set for Gatherer"),
+PROPHECY("Prophecy"),
+RAVNICA_CITY_OF_GUILDS("Ravnica: City of Guilds"),
+RETURN_TO_RAVNICA("Return to Ravnica"),
+REVISED_EDITION("Revised Edition"),
+RISE_OF_THE_ELDRAZI("Rise of the Eldrazi"),
+RIVALS_OF_IXALAN("Rivals of Ixalan"),
+SAVIORS_OF_KAMIGAWA("Saviors of Kamigawa"),
+SCARS_OF_MIRRODIN("Scars of Mirrodin"),
+SCOURGE("Scourge"),
+SEVENTH_EDITION("Seventh Edition"),
+SHADOWMOOR("Shadowmoor"),
+SHADOWS_OVER_INNISTRAD("Shadows over Innistrad"),
+SHARDS_OF_ALARA("Shards of Alara"),
+SIGNATURE_SPELLBOOK_JACE("Signature Spellbook: Jace"),
+STARTER_1999("Starter 1999"),
+STARTER_2000("Starter 2000"),
+STRONGHOLD("Stronghold"),
+TEMPEST("Tempest"),
+TEMPEST_REMASTERED("Tempest Remastered"),
+TENTH_EDITION("Tenth Edition"),
+THE_DARK("The Dark"),
+THEROS("Theros"),
+TIME_SPIRAL("Time Spiral"),
+TIME_SPIRAL_TIMESHIFTED("Time Spiral \"Timeshifted\""),
+TORMENT("Torment"),
+UGINS_FATE_PROMOS("Ugin's Fate promos"),
+UNGLUED("Unglued"),
+UNHINGED("Unhinged"),
+UNLIMITED_EDITION("Unlimited Edition"),
+UNSTABLE("Unstable"),
+URZAS_DESTINY("Urza's Destiny"),
+URZAS_LEGACY("Urza's Legacy"),
+URZAS_SAGA("Urza's Saga"),
+VANGUARD("Vanguard"),
+VINTAGE_MASTERS("Vintage Masters"),
+VISIONS("Visions"),
+WEATHERLIGHT("Weatherlight"),
+WELCOME_DECK_2016("Welcome Deck 2016"),
+WELCOME_DECK_2017("Welcome Deck 2017"),
+WORLDWAKE("Worldwake"),
+ZENDIKAR("Zendikar"),
+ZENDIKAR_EXPEDITIONS("Zendikar Expeditions");
