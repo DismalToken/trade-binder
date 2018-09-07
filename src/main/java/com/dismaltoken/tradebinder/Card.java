@@ -5,7 +5,7 @@ public class Card {
     private Name name;
     private MTGSet set;
     private Language language;
-    private Boolean isFoil;
+    private boolean isFoil;
 
     //sets the name, set, language, and foilStatus for a card
     public Card(Name name, MTGSet set, Language language, boolean isFoil) {
@@ -31,11 +31,11 @@ public class Card {
         this.language = language;
     }
 
-    public Boolean getFoil() {
+    public boolean getFoil() {
         return isFoil;
     }
 
-    public void setFoil(Boolean foil) {
+    public void setFoil(boolean foil) {
         isFoil = foil;
     }
 

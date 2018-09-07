@@ -1,1 +1,3 @@
 this is where you keep your todos
+
+improve scraper to recognize and omit back sides of flip/meld cards
